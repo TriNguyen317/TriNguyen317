@@ -1,14 +1,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Anh Phan</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nguyen Dinh Tri</h1></summary>
   </ul>
 </div>
 
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/anhphan2705/anhphan2705/blob/main/grid-snake.svg"
+  <img  src="https://github.com/TriNguyen317/TriNguyen317/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -22,13 +22,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Jupyter, Java, C**
+- 🔭 I’m currently working on **Python, Jupyter, C++**
 
-- 🌱 I’m currently learning **Computer Vision with Pytorch and Yolov7.**
+- 🌱 I’m currently learning **Computer Vision**
 
 - ☁️ I've keen interest in **AI**. So, I'm learning **Computer Vision**
 
-- 📫 Feel free to reach me out **anhphanvt2705@gmail.com**
+- 📫 Feel free to reach me out **dinhtrikt11102002@gmail.com**
 
 
 <!--Intro end-->
@@ -42,14 +42,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anhphan2705&theme=gruvbox&show_icons=true&count_private=true&hide_border=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TriNguyen317&theme=gruvbox&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anhphan2705&theme=gruvbox&hide_border=true" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen317&theme=gruvbox&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphan2705&theme=gruvbox&hide_border=true&no-bg=true&no-frame=true&langs_count=6&hide=jupyter%20notebook"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriNguyen317&theme=gruvbox&hide_border=true&no-bg=true&no-frame=true&langs_count=6&hide=jupyter%20notebook"/>
   
   </td>
 </tr>
@@ -73,6 +73,6 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=anhphan2705&icon=3&color=3)](https://github.com/anhphan2705)
+[![](https://visitcount.itsvg.in/api?id=TriNguyen317&icon=3&color=3)](https://github.com/TriNguyen317)
   
 </div>

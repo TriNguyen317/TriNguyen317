@@ -24,7 +24,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, Jupyter, C++**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision** in Viet Nam National University - Ho Chi Minh City, University of Science
 
 - ☁️ I've keen interest in **AI**. So, I'm learning **Computer Vision**
 
@@ -66,7 +66,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,github,git,java,c,linux,discord,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,github,git,cpp,discord,mysql&perline=14" />
   </a>
 </p>
 
